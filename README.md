@@ -230,10 +230,24 @@ Smart-Night-Vision-Security-System
 
 ---
 
-## 🎥 Demonstration
+## 🎬 Project Showcase
 
-Watch the complete project demonstration here:
-**▶️ [Project Demo Video](https://drive.google.com/file/d/1QWNsHMVMKlsMXha5S5TfuX80A3XprhVR/view?usp=drive_link)**
+<p align="center">
+
+<h3>🔴 Watch the Complete Demonstration</h3>
+
+From hardware setup to real-time surveillance,
+see every feature working in a real environment.
+
+<br><br>
+
+<a href="https://drive.google.com/file/d/1QWNsHMVMKlsMXha5S5TfuX80A3XprhVR/view?usp=drive_link">
+
+<img src="https://img.shields.io/badge/▶%20Launch%20Demo%20Video-ff0000?style=for-the-badge&logo=google-drive&logoColor=white">
+
+</a>
+
+</p>
 
 ---
 
