@@ -215,17 +215,14 @@ The project was developed using the following software tools:
 Smart-Night-Vision-Security-System
 │
 ├── Code
-│   ├── Arduino_UNO
-│   └── ESP32_CAM
+│   ├── night-vision-controller.ino
 │
 ├── Images
 │
-├── Report
 │
-├── Demo
-│
-├── README.md
 └── LICENSE
+├── README.md
+├── project=final-report
 ```
 
 ---
