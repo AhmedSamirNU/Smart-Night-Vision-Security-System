@@ -16,7 +16,7 @@
 
 ## 📖 Overview
 
-The **Smart Night Vision Security System** is a low-cost surveillance solution designed to provide reliable monitoring in both daylight and complete darkness. The project combines an **ESP32-CAM** for real-time Wi-Fi video streaming with an **Arduino UNO** responsible for environmental sensing and automatic control.
+The Smart Night Vision Security System is an embedded surveillance solution that combines ESP32-CAM and Arduino UNO to provide real-time Wi-Fi video streaming, automatic infrared night vision, and intrusion detection.
 
 Using a **Light Dependent Resistor (LDR)**, the system continuously detects ambient light intensity and automatically switches between normal operation and infrared night vision mode. In dark environments, **IR LEDs** illuminate the scene with infrared light, allowing the ESP32-CAM to capture clear video without visible lighting.
 
