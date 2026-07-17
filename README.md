@@ -1,7 +1,7 @@
 # 📷 Smart Night Vision Security System
 
 <p align="center">
-  <img src="Images/final-prototype.jpeg" alt="Final Prototype" width="700">
+  <img src="Images/final-prototype.jpeg" alt="Final Prototype" width="500">
 </p>
 
 <p align="center">
@@ -74,18 +74,12 @@ Yellow LED             IR LEDs
 
 ---
 
-## 📸 Project Gallery
-
-### Final Prototype
-
-<p align="center">
-<img src="Images/final-prototype.jpeg" width="700">
-</p>
+## 📷 Prototype & Implementation
 
 ### Side View
 
 <p align="center">
-<img src="Images/side-view.jpeg" width="700">
+<img src="Images/side-view.jpeg" width="450">
 </p>
 
 ### Hardware Implementation
@@ -93,7 +87,6 @@ Yellow LED             IR LEDs
 <p align="center">
 <img src="Images/hardware-implementation.jpeg" width="450">
 </p>
-
 ---
 ## 🔩 Hardware Components
 
@@ -116,25 +109,25 @@ Yellow LED             IR LEDs
 
 <p align="center">
 
-<img src="Images/esp32cam.jpeg" width="180">
-<img src="Images/arduino-uno.jpeg" width="180">
-<img src="Images/ftdi.jpeg" width="180">
+<img src="Images/esp32cam.jpeg" width="150">
+<img src="Images/arduino-uno.jpeg" width="150">
+<img src="Images/ftdi.jpeg" width="150">
 
 </p>
 
 <p align="center">
 
-<img src="Images/ultrasonic.jpeg" width="180">
-<img src="Images/ldr-ky-018.jpeg" width="180">
-<img src="Images/buzzer.jpeg" width="180">
+<img src="Images/ultrasonic.jpeg" width="150">
+<img src="Images/ldr-ky-018.jpeg" width="150">
+<img src="Images/buzzer.jpeg" width="150">
 
 </p>
 
 <p align="center">
 
-<img src="Images/ir-led.jpeg" width="180">
-<img src="Images/yellow-led.jpeg" width="180">
-<img src="Images/breadboard.jpeg" width="180">
+<img src="Images/ir-led.jpeg" width="150">
+<img src="Images/yellow-led.jpeg" width="150">
+<img src="Images/breadboard.jpeg" width="150">
 
 </p>
 
