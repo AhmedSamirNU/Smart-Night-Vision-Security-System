@@ -85,7 +85,7 @@ Yellow LED             IR LEDs
 ### Side View
 
 <p align="center">
-<img src="Images/final-prototype-side-view.jpeg" width="700">
+<img src="Images/side-view.jpeg" width="700">
 </p>
 
 ### Hardware Implementation
@@ -117,7 +117,7 @@ Yellow LED             IR LEDs
 <p align="center">
 
 <img src="Images/esp32cam.jpeg" width="180">
-<img src="Images/arduino.uno.jpeg" width="180">
+<img src="Images/arduino-uno.jpeg" width="180">
 <img src="Images/ftdi.jpeg" width="180">
 
 </p>
