@@ -112,6 +112,8 @@ Yellow LED             IR LEDs
 <img src="Images/esp32cam.jpeg" width="150">
 <img src="Images/arduino-uno.jpeg" width="150">
 <img src="Images/ftdi.jpeg" width="150">
+<img src="Images/breadboard.jpeg" width="150">
+<img src="Images/jumper-wires.jpeg" width="150">
 
 </p>
 
@@ -120,14 +122,8 @@ Yellow LED             IR LEDs
 <img src="Images/ultrasonic.jpeg" width="150">
 <img src="Images/ldr-ky-018.jpeg" width="150">
 <img src="Images/buzzer.jpeg" width="150">
-
-</p>
-
-<p align="center">
-
 <img src="Images/ir-led.jpeg" width="150">
 <img src="Images/yellow-led.jpeg" width="150">
-<img src="Images/breadboard.jpeg" width="150">
 
 </p>
 
