@@ -232,9 +232,8 @@ Smart-Night-Vision-Security-System
 
 ## 🎥 Demonstration
 
-A complete demonstration of the project is available below.
-
-> **Demo Video:** *(Add your Google Drive or YouTube link here)*
+Watch the complete project demonstration here:
+**▶️ [Project Demo Video](https://drive.google.com/file/d/1QWNsHMVMKlsMXha5S5TfuX80A3XprhVR/view?usp=drive_link)**
 
 ---
 
