@@ -230,22 +230,23 @@ Smart-Night-Vision-Security-System
 
 ---
 
-## 🎬 Project Showcase
+## 🎥 See It In Action
+
+> **The best way to understand this project is to watch it in action.**
 
 <p align="center">
 
-<h3>🔴 Watch the Complete Demonstration</h3>
-
-From hardware setup to real-time surveillance,
-see every feature working in a real environment.
-
-<br><br>
-
 <a href="https://drive.google.com/file/d/1QWNsHMVMKlsMXha5S5TfuX80A3XprhVR/view?usp=drive_link">
 
-<img src="https://img.shields.io/badge/▶%20Launch%20Demo%20Video-ff0000?style=for-the-badge&logo=google-drive&logoColor=white">
+<img src="https://img.shields.io/badge/▶%20WATCH%20THE%20FULL%20DEMO-success?style=for-the-badge">
 
 </a>
+
+</p>
+
+<p align="center">
+
+Real-time Streaming • Night Vision • Intrusion Detection • Sensor Automation
 
 </p>
 
